@@ -1,0 +1,1 @@
+[{"weights":[{"name":"fc","shape":[256,128],"dtype":"float32","quantization":{"dtype":"uint8","scale":0.000357687911566566,"min":-0.04578405268052045}}],"paths":["face_recognition_model-shard1"]}]
